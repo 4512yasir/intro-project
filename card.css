@@ -1,0 +1,27 @@
+body{
+    background: black;
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 130px;
+}
+.nav li a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    height: 400px;
+    background: white;
+    color: black;
+    width: 1000px;
+    
+}
+.profile img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
